@@ -261,7 +261,7 @@ Disarankan menjalankan di belakang reverse proxy (nginx) dengan `proxy_buffering
 DILARANG UNTUK DI PERJUAL BELIKAN!!!
 - PAKE SENDIRI 
 - BOLEH DI KEMBANGKAN
-Nganu: https://ibb.co.com/d4wN7kYw
+- NGANU: https://ibb.co.com/d4wN7kYw
 
 ---
 
