@@ -258,16 +258,6 @@ Disarankan menjalankan di belakang reverse proxy (nginx) dengan `proxy_buffering
 
 ---
 
-## 8. Screenshot
-
-> _Tempatkan screenshot UI aplikasi di sini setelah dijalankan, contoh:_
->
-> `docs/screenshot-home.png` — Halaman utama dengan input URL
-> `docs/screenshot-preview.png` — Preview metadata & trim panel
-> `docs/screenshot-progress.png` — Progress real-time saat clipping
-
----
-
 ## Lisensi
 
 MIT
